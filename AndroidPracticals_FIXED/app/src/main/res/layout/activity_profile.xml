@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <ImageView android:id="@+id/profileImage" android:layout_width="120dp" android:layout_height="120dp"
+        android:src="@android:drawable/sym_def_app_icon"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView android:id="@+id/name" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Rajveer Singh" android:textSize="24sp" android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/profileImage"
+        app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="20dp"/>
+
+    <TextView android:id="@+id/email" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Email: rajveer@gmail.com"
+        app:layout_constraintTop_toBottomOf="@id/name"
+        app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="10dp"/>
+
+    <TextView android:id="@+id/phone" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Phone: 9876543210"
+        app:layout_constraintTop_toBottomOf="@id/email"
+        app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="10dp"/>
+
+    <RatingBar android:id="@+id/rating" android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:numStars="5" android:rating="4"
+        app:layout_constraintTop_toBottomOf="@id/phone"
+        app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="20dp"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

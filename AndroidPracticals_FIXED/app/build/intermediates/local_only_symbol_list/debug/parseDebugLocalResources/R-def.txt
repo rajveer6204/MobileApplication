@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+id cityBtn
+id citySpinner
+id cpp
+id email
+id female
+id forgot
+id genderGroup
+id java
+id languageBtn
+id login
+id loginBtn
+id logo
+id male
+id name
+id password
+id phone
+id profileBtn
+id profileImage
+id python
+id rating
+id registrationBtn
+id selectButton
+id submit
+id username
+layout activity_city
+layout activity_language
+layout activity_login
+layout activity_main
+layout activity_profile
+layout activity_registration
+string app_name
+style AppTheme

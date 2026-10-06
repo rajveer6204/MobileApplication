@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-debug-24:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-main-26:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-debug-24:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-main-26:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-debug-24:\\layout_activity_language.xml.flat",
+        "source": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-main-26:\\layout\\activity_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-debug-24:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-main-26:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-debug-24:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-main-26:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-debug-24:\\layout_activity_city.xml.flat",
+        "source": "C:\\Users\\vrajs\\.gradle\\daemon\\9.3.0\\com.example.androidpracticals.app-main-26:\\layout\\activity_city.xml"
+    },
+    {
+        "merged": "com.example.androidpracticals.app-debug-24:/layout_activity_profile.xml.flat",
+        "source": "com.example.androidpracticals.app-main-26:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.androidpracticals.app-debug-24:/layout_activity_login.xml.flat",
+        "source": "com.example.androidpracticals.app-main-26:/layout/activity_login.xml"
+    }
+]
